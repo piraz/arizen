@@ -1,0 +1,106 @@
+{
+  "languageName": "Portuguese",
+  "languageValue": "pt",
+  "wallet": {
+    "showSettingsDialogButton" : "Configurações",
+    "showAboutDialogButton" : "Sobre",
+    "refreshWallet" : "Atualizar",
+    "logout" : "Logout",
+    "exit" : "Sair",
+    "date" : "Data",
+    "from": "De",
+    "to": "Para",
+    "amount" : "Amount",
+    "balance" : "Saldo",
+    "totalBalance": "Saldo Total",
+    "lastUpdate": "Última atualização",
+    "showExplorer": "Show in ZEN Explorer",
+    "listOfAddresses": "List Of Addresses",
+    "tabOverview": {
+      "label": "Overview",
+      "showZeroBalances" : "Show zero balances",
+      "newAddress": "Criar um novo endereço",
+      "unnamedAddress": "Endereço sem nome"
+    },
+    "tabDeposit": {
+      "label": "Deposito",
+      "help": "Click the green button next to the desired address for deposit.",
+      "messages": {
+        "emptyToAddr": "The to address is empty",
+        "unknownToAddr": "The to address does not belong to this wallet",
+        "zeroAmount": "The amount is not positive"
+      }
+    },
+    "tabWithdraw": {
+      "label": "Saque",
+      "help": "Click the red button next to the desired address for withdrawal.",
+      "availableBalance": "Available balance",
+      "fee": "Transaction fee",
+      "withdrawConfirmQuestion": "Do you really want to send this transaction?",
+      "messages": {
+        "emptyFromAddr": "The from address is empty",
+        "unknownFromAddr": "The from address does not belong to this wallet",
+        "emptyToAddr": "The to address is empty",
+        "zeroAmount": "The amount is not positive",
+        "insufficientFunds": "Insufficient funds on the from address",
+        "error": "Error",
+        "success": "The transaction has been successfully sent"
+      }
+    },
+    "transactionHistory": {
+      "label": "Histórico de Transações",
+      "unconfirmed": "NÃO CONFIRMADO"
+    },
+    "transactionDetail": {
+      "label": "Detalhe da Transação",
+      "txid": "ID da Transação",
+      "blockHeight": "Altura do Bloco",
+      "unconfirmedTx": "TRANSAÇÃO NÃO CONFIRMADA"
+    },
+    "addressDetail": {
+      "label": "Detalhe do Endereço",
+      "name": "Nome",
+      "address": "Endereço",
+      "saveButton": "Salvar alterações"
+    },
+    "newAddress": {
+      "label": "Criar Novo Endereço",
+      "name": "Nome (opicional)",
+      "createButton": "Criar"
+    },
+    "about": {
+      "label": "Sobre o Arizen",
+      "homepage": "Página Inicial",
+      "version": "Versão",
+      "license": "Licença",
+      "authors": "Autores"
+    },
+    "settings": {
+      "label": "Configurações",
+      "limit": "Limite da transação",
+      "items": "itens",
+      "language": "Língua",
+      "explorerUrl": "URL do Visualizador ZEN",
+      "apiUrl": "API das URLs",
+      "fiat": "Fiat Equivalente",
+      "save": "Salvar"
+    }
+  },
+  "menu": {
+    "file" : "Arquivo",
+    "backupEncrypted":  "Backup ENCRYPTED wallet",
+    "backupUnencrypted": "Backup UNENCRYPTED wallet",
+    "importEncrypted": "Importar UNENCRYPTED Arizen wallet",
+    "importUnencrypted": "Importar ENCRYPTED Arizen wallet",
+    "exit": "Sair",
+    "edit": "Editar",
+    "editSubmenu": {
+      "undo": "Undo",
+      "redo": "Refazer",
+      "cut": "Cortar",
+      "copy": "Copiar",
+      "paste": "Colar",
+      "selectAll": "Selecionar Tudo"
+    }
+  }
+}
